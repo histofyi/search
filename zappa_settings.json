@@ -1,0 +1,11 @@
+{
+    "production": {
+        "app_function": "app.app",
+        "aws_region": "eu-west-2",
+        "profile_name": "default",
+        "project_name": "search",
+        "runtime": "python3.9",
+        "s3_bucket": "search-microservice",
+        "slim_handler":true
+    }
+}
